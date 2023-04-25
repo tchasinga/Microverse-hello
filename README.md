@@ -2,14 +2,7 @@
 
 
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -120,7 +113,15 @@ In order to run this project you need:
    - git clone 
    - npm i (+ the name of specific element )
 
+   > 
+
+
+
 >### Setup
+
+
+REPOSITORY TO CLONE 
+   >[Click on this Links](https://github.com/tchasinga/Microverse-hello.git) 
 
 Clone this repository to your desired folder:
 
@@ -183,11 +184,6 @@ Using the following website
 - Twitter: [@tchasinga](https://twitter.com/tchasinga)
 - LinkedIn: [tchasinga](https://linkedin.com/in/tchasinga)
 
-👤 **Jonatha**
-
-- GitHub: [@Jonatha](https://github.com/Jonatha)
-- Twitter: [@Jonatha](https://twitter.com/Jonatha)
-- LinkedIn: [Jonatha](https://linkedin.com/in/Jonatha)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
